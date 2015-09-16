@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:10.982316
+#+DATE: 2015-08-30 20:27:11.515124
 #+TITLE: 孔雀經真言等梵本
 #+PROPERTY: CBETA_ID T19n0983B
 #+PROPERTY: ID KR6j0170
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 983B
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0170_T_000-0441b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0170_T_001-0441b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.983B¶
-
- 孔雀經真言等梵本¶
+No. 983B¶
+孔雀經真言等梵本¶
 ¶
 
-上
-:PROPERTIES:
-:head: 《孔雀經》上
-:END:
-¶
+《孔雀經》上¶
 
 ¶
 ¶
@@ -234,11 +229,7 @@ No.983B¶
 ¶
 ¶
 
-中
-:PROPERTIES:
-:head: 《孔雀經》中
-:END:
-¶
+《孔雀經》中¶
 
 ¶
 ¶
@@ -377,11 +368,7 @@ No.983B¶
 
 得百二降也。¶
 
-下
-:PROPERTIES:
-:head: 《孔雀經》下
-:END:
-¶
+《孔雀經》下¶
 
 ¶
 ¶
